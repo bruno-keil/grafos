@@ -1,0 +1,270 @@
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000810667 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.0006585 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000637333 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000559458 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000556708 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000556875 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000550541 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.0005505 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000608625 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.00061275 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000593 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000482625 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000462167 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000458625 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000479042 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000463917 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000458125 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000463583 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000454917 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000458084 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000471375 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000414 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000374125 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.0003715 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000381917 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000372625 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000371292 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000383791 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000376875 seconds
+
+Greedy Partition Quality: 1566
+Greedy Partition Time: 0.000374 seconds
+
+GRASP Partition Quality: 1247
+GRASP Partition Time: 13.6602 seconds
+
+GRASP Partition Quality: 1202
+GRASP Partition Time: 13.6749 seconds
+
+GRASP Partition Quality: 1232
+GRASP Partition Time: 13.6806 seconds
+
+GRASP Partition Quality: 1241
+GRASP Partition Time: 13.6508 seconds
+
+GRASP Partition Quality: 1127
+GRASP Partition Time: 13.7087 seconds
+
+GRASP Partition Quality: 1139
+GRASP Partition Time: 13.6604 seconds
+
+GRASP Partition Quality: 1190
+GRASP Partition Time: 13.6706 seconds
+
+GRASP Partition Quality: 1203
+GRASP Partition Time: 13.6884 seconds
+
+GRASP Partition Quality: 1225
+GRASP Partition Time: 13.6673 seconds
+
+GRASP Partition Quality: 1213
+GRASP Partition Time: 13.6663 seconds
+
+GRASP Partition Quality: 1205
+GRASP Partition Time: 13.6457 seconds
+
+GRASP Partition Quality: 1180
+GRASP Partition Time: 13.6582 seconds
+
+GRASP Partition Quality: 1209
+GRASP Partition Time: 13.6535 seconds
+
+GRASP Partition Quality: 1225
+GRASP Partition Time: 13.6618 seconds
+
+GRASP Partition Quality: 1211
+GRASP Partition Time: 13.6906 seconds
+
+GRASP Partition Quality: 1159
+GRASP Partition Time: 13.8083 seconds
+
+GRASP Partition Quality: 1213
+GRASP Partition Time: 13.6508 seconds
+
+GRASP Partition Quality: 1192
+GRASP Partition Time: 13.6805 seconds
+
+GRASP Partition Quality: 1208
+GRASP Partition Time: 13.6527 seconds
+
+GRASP Partition Quality: 1172
+GRASP Partition Time: 13.704 seconds
+
+GRASP Partition Quality: 1206
+GRASP Partition Time: 13.6739 seconds
+
+GRASP Partition Quality: 1241
+GRASP Partition Time: 13.6362 seconds
+
+GRASP Partition Quality: 1189
+GRASP Partition Time: 13.661 seconds
+
+GRASP Partition Quality: 1248
+GRASP Partition Time: 13.6488 seconds
+
+GRASP Partition Quality: 1245
+GRASP Partition Time: 13.6622 seconds
+
+GRASP Partition Quality: 1191
+GRASP Partition Time: 258.743 seconds
+
+GRASP Partition Quality: 1143
+GRASP Partition Time: 13.6527 seconds
+
+GRASP Partition Quality: 1244
+GRASP Partition Time: 13.6699 seconds
+
+GRASP Partition Quality: 1187
+GRASP Partition Time: 13.6328 seconds
+
+GRASP Partition Quality: 1195
+GRASP Partition Time: 13.676 seconds
+
+Reactive GRASP Partition Quality: 1199
+Reactive GRASP Partition Time: 13.4987 seconds
+
+Reactive GRASP Partition Quality: 1240
+Reactive GRASP Partition Time: 13.5993 seconds
+
+Reactive GRASP Partition Quality: 1215
+Reactive GRASP Partition Time: 13.5923 seconds
+
+Reactive GRASP Partition Quality: 1222
+Reactive GRASP Partition Time: 13.6086 seconds
+
+Reactive GRASP Partition Quality: 1225
+Reactive GRASP Partition Time: 13.6064 seconds
+
+Reactive GRASP Partition Quality: 1241
+Reactive GRASP Partition Time: 13.5922 seconds
+
+Reactive GRASP Partition Quality: 1215
+Reactive GRASP Partition Time: 13.6118 seconds
+
+Reactive GRASP Partition Quality: 1208
+Reactive GRASP Partition Time: 13.5919 seconds
+
+Reactive GRASP Partition Quality: 1179
+Reactive GRASP Partition Time: 13.6356 seconds
+
+Reactive GRASP Partition Quality: 1196
+Reactive GRASP Partition Time: 13.6302 seconds
+
+Reactive GRASP Partition Quality: 1217
+Reactive GRASP Partition Time: 306.259 seconds
+
+Reactive GRASP Partition Quality: 1221
+Reactive GRASP Partition Time: 13.5967 seconds
+
+Reactive GRASP Partition Quality: 1229
+Reactive GRASP Partition Time: 13.6088 seconds
+
+Reactive GRASP Partition Quality: 1224
+Reactive GRASP Partition Time: 13.5965 seconds
+
+Reactive GRASP Partition Quality: 1238
+Reactive GRASP Partition Time: 13.6188 seconds
+
+Reactive GRASP Partition Quality: 1243
+Reactive GRASP Partition Time: 13.612 seconds
+
+Reactive GRASP Partition Quality: 1199
+Reactive GRASP Partition Time: 13.5977 seconds
+
+Reactive GRASP Partition Quality: 1211
+Reactive GRASP Partition Time: 13.6008 seconds
+
+Reactive GRASP Partition Quality: 1222
+Reactive GRASP Partition Time: 13.6011 seconds
+
+Reactive GRASP Partition Quality: 1193
+Reactive GRASP Partition Time: 13.6567 seconds
+
+Reactive GRASP Partition Quality: 1198
+Reactive GRASP Partition Time: 253.407 seconds
+
+Reactive GRASP Partition Quality: 1231
+Reactive GRASP Partition Time: 13.591 seconds
+
+Reactive GRASP Partition Quality: 1178
+Reactive GRASP Partition Time: 13.5862 seconds
+
+Reactive GRASP Partition Quality: 1187
+Reactive GRASP Partition Time: 13.607 seconds
+
+Reactive GRASP Partition Quality: 1227
+Reactive GRASP Partition Time: 13.6109 seconds
+
+Reactive GRASP Partition Quality: 1213
+Reactive GRASP Partition Time: 13.6056 seconds
+
+Reactive GRASP Partition Quality: 1179
+Reactive GRASP Partition Time: 13.57 seconds
+
+Reactive GRASP Partition Quality: 1233
+Reactive GRASP Partition Time: 13.5991 seconds
+
+Reactive GRASP Partition Quality: 1177
+Reactive GRASP Partition Time: 13.5859 seconds
+
+Reactive GRASP Partition Quality: 1203
+Reactive GRASP Partition Time: 13.6365 seconds
+
